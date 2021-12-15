@@ -1,4 +1,4 @@
-# h2_guessnumber
+# hw2_guessnumber
 
 A new Flutter project.
 
