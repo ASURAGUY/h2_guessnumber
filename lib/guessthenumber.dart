@@ -22,6 +22,8 @@ void main() {
       count++;
       if (guess == answer) {
         print('║➜ $guess is CORRECT ❤, total guesses : $count');
+        print(s1);
+        print('║                  😊😊 THE END 😊😊');
         print(s2);
         break;
       } else {
